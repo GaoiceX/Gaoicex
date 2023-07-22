@@ -21,6 +21,8 @@ I participated in the development of the [Phigros plot visual novel](https://www
 
 ### 💬 Social platforms
 [Twitter](https://twitter.com/Gaoice)
+
 [Bilibili](https://space.bilibili.com/1963534045)
+
 [Weibo](https://weibo.com/u/7854103418)
 
